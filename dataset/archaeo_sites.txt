@@ -1,0 +1,45 @@
+Data description of the file archaeo_sites.csv
+
+This file contains description of table entries for the csv and key codes
+
+SiteID (character): project unique site ID to identify the site
+Name (character): name of the site as reported from the original source
+NameAlt (character): alternative name of the site provided by the original or other sources
+AncientName (character): if applicable, name(s) for wich the site was known in antiquityu
+Type (character): typology of site (e.g. settlement, cave, etc.)
+Subtype (character): archaeological features present on the site
+Morphology (character): morphology of the site (e.g. Tell, Flat site)
+Period (character): cultural period of the site-phase
+StartDate (character): starting date of the site-phase
+EndDate (character): ending date of the site-phase
+ArchaeoStatus (character): if the archaeological site was excavated/surveyed/sampled
+Notes (character): any useful notes about the site archaeology
+Latitude (numeric): WGS84 latitude in decimal degrees
+Longitude (numeric): WGS84 longitude in decimal degrees
+Northing (numeric): UTM36N northings
+Easting (numeric): UTM36N eastings
+LocQual (character): location accuracy of the point representing the site
+SizeHa (numeric): size of the site in hectares
+SizeQual (character): quality of the dimensional information
+Source (character): main bibliographic reference
+Pages (character): page from the main bibliographic reference. If an online database, this is a url
+SourceID (character): site ID from the main bibliographic reference
+AltSource (character): alternative bibliographic reference (in case of visit from different surveys)
+AltSourcePages (character): pages or url for the alternative bibliographic reference
+AltSourceID (character): Site ID for the alternative bibliographic reference
+AltSizeHa (numeric): alternative site size (if applicable) in the alternative bibliographic reference
+AltSizeQual (character): quality of the alternative dimensional information
+
+Location Quality Key
+
+A = Exact coordinates of site centroid.
+B = The site is within a 1km radius’ buffer of the coordinates collected.
+C = The site is within a 3km radius’ buffer of the coordinates collected.
+D = The site is within a 5km radius’ buffer of the coordinates collected.
+
+Size Quality Key
+
+A = Very high attention to site extent in this phase by the publishers of this data, with a mix of some/all of intensive survey, some excavation  and/or geomorphological study going into the estimate.
+B = Rough site extent for this phase from non-systematic survey or only very partial knowledge of sub-surface/geomorphology. 
+C = Same estimated size for all phases and difficult to differentiate per phase.
+D = Very rough guess for the site’s likely extent in this phase by our project, from qualitative information about site type.
