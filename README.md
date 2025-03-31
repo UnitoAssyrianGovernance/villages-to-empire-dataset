@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15111733.svg)](https://doi.org/10.5281/zenodo.15111733)
+
 This readme file was generated on 2025-03-31 by A. Titolo, adapted from the template provided by the [Cornell Data Services](https://data.research.cornell.edu/data-management/sharing/readme/)
 
 ## GENERAL INFORMATION
@@ -38,9 +40,9 @@ Fundings were provided by the Gerda Henkel Stiftung for the project “Governanc
 
 **Licenses/restrictions placed on the data**: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-**Links to publications that cite or use the data**: TBA
+**Links to publications that cite or use the data**: Dataset have been submitted to the Journal of Open Archaeology Data for publication. 
 
-**Links to other publicly accessible locations of the dat**a: TBA
+**Links to other publicly accessible locations of the data**: Data are also available on Zenodo at the following link: [https://doi.org/10.5281/zenodo.15111732](https://doi.org/10.5281/zenodo.15111732)
 
 **Data Origin**: Secondary and Processed data from originally published materials.
 
@@ -59,7 +61,7 @@ Fundings were provided by the Gerda Henkel Stiftung for the project “Governanc
 
 **Recommended citation for this dataset**: 
 
-TBA
+ Appropriate citation will be provided once the paper is published.
 
 ## DATA & FILE OVERVIEW
 
@@ -79,8 +81,7 @@ TBA
 
 ## METHODOLOGICAL INFORMATION
 
-**Description of methods used for collection/generation of data**: **TBA**
-<!-- <include links or references to publications or other documentation containing experimental design or protocols used in data collection> -->
+**Description of methods used for collection/generation of data**: A link to the paper will be provided once published.
 
 **Methods for processing the data**:
 
@@ -133,7 +134,6 @@ Chronological Scheme for South Levant used in the dataset (see the paper for mor
 
 
 ## DATA-SPECIFIC INFORMATION FOR: dataset.gpkg - archaeo_sites / archaeo_sites.csv
-<repeat this section for each dataset, folder or file, as appropriate>
 
 **Number of Fields**: 27
 
