@@ -32,6 +32,9 @@ Palestine and the central regions of Israel:
 - Eastern boundary: 35.57204756
 - Western boundary: 34.47523021
 
+![joad_distribution_map2](https://github.com/user-attachments/assets/c5b90943-9f22-457b-a6eb-7f1f6bd19a14)
+
+
 **Information about funding sources that supported the collection of the data**: 
 
 Fundings were provided by the Gerda Henkel Stiftung for the project “Governance Policies and Political Landscapes in the Southern Levant under the Neo-Assyrian Empire” (grant number: AZ 31/F/21, PI Alessio Palmisano).
@@ -168,3 +171,5 @@ Chronological Scheme for South Levant used in the dataset (see the paper for mor
 - AltSourceID (character): Site ID for the alternative bibliographic reference
 - AltSizeHa (numeric): alternative site size (if applicable) in the alternative bibliographic reference
 - AltSizeQual (character): quality of the alternative dimensional information
+
+<img src="https://github.com/user-attachments/assets/aa62b043-6770-47d4-b779-552d22107432" width="500"> &#09;&#09;&#09; <img src="https://github.com/user-attachments/assets/ec42cdde-27eb-40eb-a3f5-15b7a089dac9" height="150">
