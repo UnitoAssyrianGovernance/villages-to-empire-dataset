@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15111733.svg)](https://doi.org/10.5281/zenodo.15111733)
 
-This readme file was generated on 2025-03-31 by A. Titolo, adapted from the template provided by the [Cornell Data Services](https://data.research.cornell.edu/data-management/sharing/readme/). For changelog and updates related to the dataset, please see the [CHANGELOG file](/CHANGELOG.md)
+This readme file was generated on 2025-03-31 by A. Titolo, adapted from the template provided by the [Cornell Data Services](https://data.research.cornell.edu/data-management/sharing/readme/). For changelog and updates related to the dataset, please see the [CHANGELOG.md file](/CHANGELOG.md).
 
 ## GENERAL INFORMATION
 
