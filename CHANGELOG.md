@@ -7,11 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.1] - 2025-09-22
 
+### Added
+
+- Add CHANGELOG.md
+
 ### Changed
 
 - Update site dataset
 
 Updated site dataset (.gpkg and .csv) to fix some incorrect periodization and provide more detailed temporal data for Chalcolithic, Early Bronze Age, Middle Bronze Age, and Iron Age II. For example: many sites that have been originally assigned to a Chalcolithic-EB I are now Chalcolithic only; MB II-III sites were missing some previous MB I occupation.
+
+- Update README
 
 [1.1]: https://github.com/UnitoAssyrianGovernance/villages-to-empire-dataset/compare/1.0..1.1
 
